@@ -6,7 +6,7 @@ Plugin URI:  http://link to your plugin homepage
 Description: Create a basic React app
 Version:     1.0
 Author:      Giannis Dallas
-Author URI:  
+Author URI:  https://giannisdallas.com
 License:     GPL2 etc
 License URI: 
 */
